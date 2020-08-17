@@ -70,7 +70,7 @@ Average Waiting Time	=Total Waiting Time/Total Process
 
 ## Priority Scheduling
 
-Priority Scheduling algorithms provide a good mechanism where the relative importance of each process maybe precisely defined. Then the priority of a process can be selected baesd on memory requirement, time requirement or user preference. 
+Priority Scheduling algorithms provide a good mechanism where the relative importance of each process maybe precisely defined. Then the priority of a process can be selected based on memory requirement, time requirement or user preference. 
 
 Course code : 2201  
 Duration : 3   
